@@ -1,0 +1,92 @@
+nom,latitude,longitude,categorie,statut,description,avis,note
+Musée du Louvre,48.8606,2.3376,Musee,Fait,"Pas besion de description","Bien mais vas un peut dans tous les senses, et quantité énorme d'informations et tout n'est pas toujours bien expliqué",4.4
+Musée d'Orsay,48.8599,2.3265,Musee,Fait,"Peintures impressionistes (Manet, Monet, Pissaro, Van Gogh, ...), sculptures (Rodin, Bourdelle, ...), ...","Musée très bien concu, très clair et très joli",5
+Lim Sept,48.87333501750027, 2.3779629969065597,Resto,Fait,"Resto chinois avec nouilles, raviolis, ...",Absolument incroyable et pas très cher (entrée+plat+bière=18 euros),5
+Hêvî Durum, 48.828340755662786, 2.35301814392308,Resto,A faire,"Resto/Kebab turk, apparament très bien","Personellement, je trouve un peut cher et on aurait dit portions pas immences mais a voir", 4
+Boulangerie Lorette Butte aux Cailles, 48.828218142185065, 2.352441859458698,Boulangerie,Fait,"Boulangerie tout a fait convenable","Pas trop cher et bon gout, pate feilletée croustillante et beuree",4.75
+Chez Gladines Butte aux Cailles, 48.82882872018568, 2.3506073361754276,Resto,A faire,"Resto basque, a l'aire bien et convivial mais sans plus","Formule midi (de 12h a 20h) plat boisson dessert a 19 euros",3.6
+Butte aux Cailles, 48.827861092371634, 2.350784361973326,Endroit,Fait,"Quartier village super mignon","Super mignon, typique avec restos et terraces mais les restos on laire mid dans l'ensemble",4
+Le Hangar Five Vintage,48.82783778476985, 2.3457258969037555,Friperie,Fait,"ENORMEMENT de choses","Dans l'ensemble pas grand chose qui vaut a peine, habits assez moyens (tachés, XXL, pas jolis, ...)", 3.75
+La Butte Aux Piafs,48.82994797433334, 2.351968696021237,Resto,Fait,"Restorant tout a fait convenable","Entree + plat + verre de vin = 22.9 euros, plustot bon et quantite bonnes",4.25
+Restaurant Saint Cyrille,48.82989400298398, 2.3516327843793845,Resto,A faire,"Petit restorant Egyptien","N'a pas l'aire trop cher",4
+La Ressourcerie Créative,48.826837589473065, 2.3266475859486917,Friperie,A faire,"A l'aire mid mais sait-on jamais",,3.75
+L'Auberge des Crus,48.849795026189675, 2.265491823665318,Resto,A faire,"Resto typique francais, bonnes viandes, bons vins, un peut cher","A l'aire plustot bien pour le prix",4
+Les petites dalles,48.83641813201994, 2.2824461969042638,Resto,A faire,"Resto Coreen, a l'aire tres bon,pas hyper cher",,4.2
+15eme Art Pizzeria,48.835170397926326, 2.2896792257403273,Resto,Fait,"Pizzeria, vraiment vraiment peut cher et tres qualitative","Recommende",5
+Le Murier,48.83522196440051, 2.296094853966394,Resto,A faire,"Resto/Bistro pseudo-gastronomique, abordable (EPD = 30 euros), a l'aire vraiment bien",,4.8
+Boulangerie Pâtisserie - Maison Loquer,48.84574228152374, 2.2892466187452856,Boulangerie,A faire,"A l'aire tout a fait convenable, aparamment tres bien, pas grand chose de mieux dans les environs il me semble",,4.5
+Boulangerie Pâtisserie L'Equilibre,48.84104338707134, 2.299288391041716,Boulangerie,A faire,"A l'aire tout a fait convenable, aparamment tres bien, pas grand chose de mieux dans les environs il me semble",,4.5
+"Le Relais, la Boutique Paris 15 (Réseau Ding Fring)",48.833719013854434, 2.3080181257402237,Friperie,A faire,"a voire",,4
+La Petite Alsacienne,48.835466950620955, 2.320155280435011,Boulangerie,A faire,"A l'aire bien, pas mega cher",,4.3
+MR CHOW - Cuisine chinoise,48.842009658975584, 2.3281568680684557,Resto,A faire,"A l'aire assz sur cote mais on sait jamais","Prendre le biang biang epaule d'agneau",3.8
+Le Tourne Bouchon,48.84938357190947, 2.3277458815605616,Resto,A faire,"Brasserie, a l'air bancal mais on sait jamais","Bien note et vraimnt pas cher (E+P = 13.8 euros)",4
+Five Vintage,48.8512324546908, 2.294826980621379,Friperie,A faire,,,3.5
+Taiyaki Oden,48.85492777460931, 2.3378391527247615,Resto,A faire,"Ramen/oden apparament ok, autour de 14 euros le bol","",4
+Label'ge frite Paris 6,48.85376221881028, 2.3400738680691906,Resto,A faire,"Frites et burgers pas hyper cher et apparament bon",,3.75
+Au Gré du Vent,48.851988322396835, 2.3379244527245575,Friperie,A faire,,,4
+Cèpe & Figue,48.853597992993784, 2.3388702663217025,Resto,A faire,"Resto francais, pas cher, a l'air moyen",,3.5
+Chez le Libanais,48.853427979261795, 2.341647483413704,Resto,A faire,"Cuisine libanaise, pas hyper cher",,3.5
+BO&MIE - Saint Michel,48.85255548196825, 2.343897637380042,Boulangerie,Fait,"Boulangerie un peut industrielle, grande echelle","Pas trouve beaucoup mieux dans les environs",4
+PRADEL Bastille,48.8561913175052, 2.3689233544556307,Resto,A faire,"Resto francais avc des specialite et aussi d'autres plats","A l'aire d'etre un bon rapport qualite/prix, E + P + D = environ 34 euros",4.5
+Ursa Major Chocolats,48.85840382879132, 2.3775765122501515,Boulangerie,A faire,"Chocolaterie, tout fait sur place, vraiment incroyable rapport qualite/prix","Prendre le coffret planettes, 22 euros il me semble",4.8
+Rives,48.86115148880269, 2.381157768069685,Resto,A faire,"Saucice aligot et autres merveilles","Plats a environ 18 euros",3.9
+La Panifacture,48.866326766319986, 2.37706242574226,Boulangerie,Fait,"Peut-etre les meilleures vienoiseries de Paris, un peut cher mais vaut la peine, tout part tres tres vite, soit appeler et reserver des articles soit aler vraiment tot","Flan incroyable, pain suisse incroyable, financier moyen, croissant pas hors du commun apparament",5
+Boulangerie-Pâtisserie Terroirs d'Avenir,48.86775238554101, 2.37706242574226,Boulangerie,Fait,"Boulangerie un peut moins cote que la Panufacture mais aussi bon, assez cher par contre","Kougaman tres bon, aussi pain originaux au citron confit, ...",4.2
+Le Bangkokien,48.8676933052112, 2.3751767392339467,Resto,A faire,"Cusine thai, a l'aire vraiment excellente","E + P + D = 20 euros",5
+Café de l'Usine,48.87027185536048, 2.374367898759321,Resto,A faire,"Cusine apparament niveau etoile","Menu du dejeune E + 2P + D = 35 euros, menu du souper en E + 3P + D = environ 50 euros",4.9
+Restaurant La Colline,48.87081339729051, 2.395377666217344,Resto,A faire,"Cusine un peut travaillee", "E + P + D = 24 euros le midi",4.85
+Vandal,48.87936152974775, 2.3859092037058733,Resto,A faire,"Sandwichs, aparamment tres bien et a l'aire tres bien","E + P + D = 16 ou 18 euros",4.5
+Le Bar Fleuri,48.878053738811225, 2.3854534257429703,Resto,Fait,"Resto typique, vraiment pas cher, poulet roti frites a 6.85 euros, flan a 3.5 euros, oeufs mayo a 4 euros",,4.6
+Dumplings And Noodles Népalaise Restaurant,48.879040597185046, 2.3855951969069182,Resto,A faire,"Cuisine nepalaise, vraiment pas cher et laire tres bon",,4.7
+Pâtisserie Ginko,48.8786199869324, 2.385465695765996,Boulangerie,A faire,"Un peut cher mais ca vas encore (autour de 6 euros la tartelette) mais a l'aire vraiment quali",,4.8
+Mian Guan,48.872932018750824, 2.3801882122510714,Resto,A faire,"Soupes chinoises, pas trop cher, fait maison","File aux heures de pointe",4.5
+Ostara Belleville,48.87179421858953, 2.3807020508728285,Resto,A faire,"Pseudo gastro","Vraiment peut cher pour le banger que ca a l'aire d'etre (E + P + D = environ 30 euros le midi)",4.75
+PALOMA,48.87248616079978, 2.3823794852678644,Resto,A faire,"Cuisine lechee et créative","Menu midi a 13 euros",4.55
+WENZHOU La Cantine Chinoise 温州美食林,48.87264104667268, 2.3788934545787894,Resto,A faire,"Chinois pas cher et ouvert tout le temps","Grosses portions",4.5
+Original Poulet Braisé,48.88785915401131, 2.3734195662184,Resto,A faire,"Poulet braisé, menu a 6 euros","A l'emporter seulement",3.75
+Le bistro des oies,48.87200389426808, 2.3674558238896815,Resto,A faire,"Bisto typique, pas trop cher, bon vins",,4.23
+Velours,48.87253669291561, 2.3665928545787676,Resto,A faire,"Sandwich et boissons et desserts tout fait maison","A l'aire vraiment tres tres bien",4.75
+Cheap frip vintage - Marais,48.85953228452506, 2.353872496905732,Friperie,A faire,,,4
+RETRO,48.86455756308697, 2.3507578482012184,Friperie,A faire,,,4
+Cheap Frip Vintage,48.86498702773964, 2.3503822122505644,Friperie,A faire,,,4
+ALATONE - Turbigo,48.86408285987904, 2.349352221595071,Friperie,A faire,,,4
+Tekés,48.86611213991139, 2.3496065103977015,Resto,A faire,"Cuisine vegetarienne israelienne","",3.75
+Brasserie Dubillot,48.868149645026584, 2.3519423815616958,Resto,A faire,"Brasserie typique, prix normaux",,3.8
+Mama No Bento,48.869975999416354, 2.3478984527257007,Resto,A faire,"Petit restorant qui sert des bentos fait maison, a laire tres bon, prix entre 15 et 16 euros",,4.75
+Brasserie Rosie Lou,48.87043256944251, 2.3488158103980017,Resto,A faire,"Brasserie typique, prix normaux",,3.75
+TranTranZai,48.870715441195365, 2.3528969146794934,Resto,A faire,"Chinois, pas hyper cher","Plusieus enseignes a Paris, donc un peut generique?",3.7
+Jah Jah By Le Tricycle,48.873312393003744, 2.352934807932788,Resto,A faire,"Caribeen, vegan, surement sur cote","Pat a 13 euros et desserts a 7 euros",3.5
+YALLÄ Paris 18 - Dépôt-vente / Second-hand store / Curated Vintage,48.89053920766656, 2.347098615300586,Friperie,Fait,,"Un peut cher, pas mal de trucs de filles, un peut cher",3.75
+YALLÄ Paris 10 - Dépôt-vente / Second-hand store / Curated Vintage,48.87229047785266, 2.357268480044008,Friperie,A faire,,,4
+Super vintage,48.873302917599915, 2.3529162797090897,Friperie,A faire,,,4
+Rolling Fripe,48.87509988124621, 2.3554858527259976,Friperie,A faire,"-20% pour les etudiants toute l'annee",,4.4
+Boulangerie Pâtisserie Miche de Pain,48.87660013879005, 2.3444292680706766,Boulangerie,A faire,"A l'aire tout a fait convenable",,4.3
+Pâtisserie La matière,48.87506599930963, 2.3413013103982756,Boulangerie,A faire,"Vraiment cher (entre 6 et 8 euros les tartelettes), vaut peut-etre la peine?",,3.75
+Mamiche,48.88022988474209, 2.343531168070843,Boulangerie,A faire,"A l'aire vraiment incroyable, prix tres correctes","Tres cote donc beaucoup de monde et de file",4.75
+Le Comptoir de Madeleine,48.880787016798486, 2.338605410398631,Boulangerie,Fait,"Tres petit magasin qui vend des madeleines (vanille, du moment, citron, caramel beurre sale, nocioletta) bonnes mais rien d'exceptionel non plus, 2.5 euros la piece",,4.3
+Leonie Bakery,48.88185863793083, 2.345077571038601,Boulangerie,Fait,"Overprised, rien dexceptionel",,3.4
+Colline d'Asie - Del Sarte,48.88590445897483, 2.3452201815628047,Resto,A faire,"Resto cambodgien, pas trop cher",,3.9
+109 The Vintage & Concept Store,48.8859159784582, 2.3456717834157415,Friperie,Fait,"","...",4
+A.P.C. Surplus André Del Sarte,48.88590051573568, 2.3455096274609226,Friperie,Fait,"Proposent ancienne collection APC (neuf) a moins 30-50%, reste assez cher",,4
+ATELIER LUNE - vintage shop ♻️🫶🏻,48.88583742075865, 2.346852002848379,Friperie,Fait,"Pas mal de workwear, tres bons habits","Prix assez fair",4.2
+La ressourcerie Le Poulpe - La Boutique,48.88912627868986, 2.3539790392352864,Friperie,Fait,"bof",,3.8
+Emmaüs boutique solidaire,48.89154365835724, 2.348568711813034,Friperie,Fait,"Pas mal d'APC a des prix relativement peut cher",,4.15
+Guerrisol,48.89139634881971, 2.3499130071056236,Friperie,Fait,"",,3.8
+Emmaüs Boutique solidaire,48.88945968093096, 2.360139850079556,Friperie,Fait,,,3.9
+Emmaüs Défi Riquet,48.88924870572248, 2.3719091826711325,Friperie,Fait,"Vraiment tres grand",,3.9
+Emmaüs Défi - Ressourcerie du 104,48.89036003386752, 2.3707792114986592,Friperie,Fait,,,3.9
+Guépard Destock,48.897171630362244, 2.3447324680719217,Friperie,A faire,,,4.2
+Giardino Paris｜Pâtisserie & Salon de thé,48.884624470773005, 2.3214062616418905,Boulangerie,A faire,"A laire absolument absolument incroyable",,5
+Clem & Gwen Clichy,48.901229603780884, 2.305460810399904,Boulangerie,A faire,"Pas mal et prix ok (environ 5.5 euros la tarteette)",,4.3
+Clem & Gwen Saint-Ouen,48.91282997285135, 2.32943291087654,Boulangerie,Fait,"Pas mal et prix ok (environ 5.5 euros la tarteette)",,4.3
+La Cop1ne,48.826846861700446, 2.313344752723008,Resto,A faire,"E + P + D = 5 euros pour es etudiants (meme dans une uni hors de la france il me semble), a l'aire tres quali et bonnes quantites",,4.4
+Le Sully,48.870721168628364, 2.3528452844498426,Bar,A faire,"Biere 0.5L = 3.5 euros et 6 euros le cocktail","A l'aire annime et jeune",4.5
+Aux Dés Calés 17,48.892116373205994, 2.326126768071602,Resto,A faire,"Un peut cher mais pas trop non plus, jeux de societe gratuit pour chiller apres",,4.1
+BON AMI,48.833596638867775, 2.3243888122486047,Bar,A faire,"Pinte a 3 euros (en happy hour)",,4.5
+L'instant,48.888249307568046, 2.348132881562973,Bar,A faire,"Pinte a 3.8 euros (en happy hour)",,4.2
+La Brouette,48.83327861278771, 2.3243313411257427,Bar,A faire,"Pinte a 4 euros (en happy hour)",,4.13
+Lutèce Café,48.85201832228699, 2.3984593275943062,Bar,A faire,"Pinte a 3.3 euros (en happy hour)",,4.3
+Chez LouLou et Juliette,48.85333117956219, 2.39734639505239,Bar,A faire,"Pinte a 3.3 euros (en happy hour)",,4.4
+Les Affranchis,48.864568004942726, 2.368770342327732,Bar,A faire,"Pinte a 3.5 euros et 6 euros les cocktails",,4.45
+La vache folle,48.854838689753954, 2.3390038950524716,Bar,A faire,"Pinte autour de 3.5 euros, a l'aire detre une sorte de boite bar, pas convaincu",,4
+Au Taquet,48.876029300174295, 2.3459013738946664,Bar,A faire,"Pinte a 3 euros, coctails a 6 euros, pastis a 3 euros, je suis conquis",,4.9
