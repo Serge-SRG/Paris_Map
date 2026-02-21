@@ -81,16 +81,18 @@ for index, lieu in df.iterrows():
     </div>
     """
     
-    marker = folium.Marker(
-        location=[lieu['latitude'], lieu['longitude']],
-        popup=folium.Popup(html_popup, max_width=300),
-        tooltip=f"{lieu['nom']} ({lieu['note']})", 
-        icon=folium.Icon(color=conf['couleur'], icon=conf['icon'], prefix='fa'),
-        opacity=0.6 if est_fait else 1.0
-    )
+    # Fonction locale pour créer le marqueur (évite la répétition)
+    def create_marker(lieu_data, config, fait):
+        return folium.Marker(
+            location=[lieu_data['latitude'], lieu_data['longitude']],
+            popup=folium.Popup(html_popup, max_width=300),
+            tooltip=lieu_data['nom'],
+            icon=folium.Icon(color=config['couleur'], icon=config['icon'], prefix='fa'),
+            opacity=0.5 if fait else 1.0
+        )
 
-    marker.add_to(groupes_cat[lieu['categorie']])
-    marker.add_to(groupe_complet)
+    create_marker(lieu, conf, est_fait).add_to(groupes_cat[lieu['categorie']])
+    create_marker(lieu, conf, est_fait).add_to(groupe_complet)
 
 # 6. Recherche (Invisible)
 def create_geojson_features(df):
@@ -153,7 +155,21 @@ function toggleLegende() {
     </div>
 </div>
 """
+
+style_css = """
+<style>
+    .leaflet-control-layers-overlays label:nth-child(1) { color: black; font-weight: bold; border-bottom: 1px solid #ccc; }
+    .leaflet-control-layers-overlays label:nth-child(2) { color: blue; }
+    .leaflet-control-layers-overlays label:nth-child(3) { color: orange; }
+    .leaflet-control-layers-overlays label:nth-child(4) { color: green; }
+    .leaflet-control-layers-overlays label:nth-child(5) { color: dark green; }
+    .leaflet-control-layers-overlays label:nth-child(6) { color: purple; }
+    .leaflet-control-layers-overlays label:nth-child(7) { color: red; }
+</style>
+"""
+
 m.get_root().html.add_child(folium.Element(legende_html))
+m.get_root().html.add_child(folium.Element(style_css))
 
 # 8. Options Finales (Menu replié pour mobile)
 LocateControl(auto_start=False, flyTo=True).add_to(m)
