@@ -96,7 +96,7 @@ Chez Xu,48.86534693251515, 2.356887761297285,Resto,A faire,"Resto chinois, appar
 Rôtisserie Segar,48.84083154081126, 2.349778439232273,Resto,A faire,"Poulet 19,90€/kg (possible de l’acheter à la moitié et au quart), Sandwich 7,50-9 (le césar 9,5), accompagnement 18-23€/kg, terrines et rillettes 30-32€/kg, desserts 20-30€/kg","Peut etre surcote, apparmment le sandwich est presque vide",4.2
 Chantefable,48.866547320091506, 2.399649112250692,Resto,A faire,"Bistro typique, plats classiques francais,Plat du jour 19-25, marée 11-97, entrées 6-20, salades 14.50-16, plats 17-45, desserts 3-18.5","Apparamment grandes portions",4.55
 Ngoc Xuyen Saigon,48.823089800830374, 2.3617778122479716,Resto,A faire,"Vietnamien,  Soupes (pho) 14.50-16.50 ; Nem 7.50 ; raviolis (13 en plat, 7.50 en entrée)","Tres populair, mais apparmment un des meilleurs pho de Prais, donc bcp de monde, aller aux heures creuses, demander os a moele",4.2
-Le Jardin des Pâtes,48.843874911922754, 2.354342813491599,Resto,A faire,"entrée 6.90-14.20 ; pâtes 15-21.80 (supplément comté 1) ; dessert 3.50-9.80","Cher et apparmment rien d'exceptionel"
+Le Jardin des Pâtes,48.843874911922754, 2.354342813491599,Resto,A faire,"entrée 6.90-14.20 ; pâtes 15-21.80 (supplément comté 1) ; dessert 3.50-9.80","Cher et apparmment rien d'exceptionel",3.5
 Majid Kababi,48.84666304367326, 2.287170378178012,Resto,A faire,"Iranien, portions genereuses, a laire vraiment incroyable, compter 20 euros je pense",,4.9
 Le Toit de La Bellevilloise,48.868378784693085, 2.3921807362796916,Bar,A faire,"Rooftop, super vue degagee sur Paris, 7-9 euros le demi litre de biere, 14 euros les cocktails","Assez cher mais super vue",3.95
 Concept chef Brazilian BBQ,48.84293686804469, 2.329738283413064,Resto,A faire,"Burger avec viande au BBQ cuite entre 2 et 12 heures, a l'aire vraiment incroyable, menu (burger frites boison de 13 a 20 euros, assiete a 12-14 euros)","Portions peut etre un peut petites, a voir",4.55
@@ -107,4 +107,73 @@ Urfa Dürüm,48.87315769781247, 2.354496222756282,Resto,A faire,"Sandwiches kurd
 Chez Alain Miam Miam,48.862465033156006, 2.361795750872277,Resto,A faire,"Sandwiches immenses, apparmment suculents et assz chers 15 sur place, 13.5 a l'emporter",,4.4
 Cavapapa,48.83881258070237, 2.30053053973834,Resto,A faire,"A l'aire vraiment tres tres bien, cuisine francaise relativement modernisee","Ordre d'idee des prix: entree 12 euros, plat: 25 euros, dessert: 12 euros, a l'aire de valoir son prix",4.75
 Le Louxor,48.88370618531633, 2.349899412251743,Bar,A faire,"Cinema (6 euros la place) et bar a l'etage avec super terrace (pas cher non plus)",,4.9
-Gaston & Marlo,48.86984240206097, 2.3551649232773233,Resto,A faire,"Plats auvergnats, tels que truffade, aligot et saucisses","A l'aire ok mais sans plus, relativement cher, je suis mitige",3.8
+Gaston & Marlo,48.86984240206097, 2.3551649232773233,Resto,A faire,"Plats auvergnats, tels que truffade, aligot et saucisses","A l'aire ok mais sans plus, relativement cher, je suis mitige",3.6
+Bonvivant,48.847917035974206, 2.352063071609805,Resto,A faire,"Resto francais avec entrecote, caille facon cordon bleu, cote de porc pannee, ... . Prix entre 21 et 34 euros lassiete. Portions ont l'aire genereuses mais resto a laire moyen dans lensemble",,3.85
+Pâtisserie Viennoise,48.85103637889079, 2.341570444234068,Resto,A faire,"Sandwichs vraiment pas chers (entre 3.3 et 4.8 euros), patisseries de vienne et boissons tout abordable",,4.35
+Oroyona,48.84398188302679, 2.3493315969047384,Resto,A faire,"Creperie pas cher (5.5 euros pour une crepe salee, une sucree et une boisson)",,4.4
+Crêperie Genia,48.85166086532244, 2.3437581969052435,Resto,A faire,"Crepes et paninis vraiment pas cher, assez ghetto",,3.95
+LES SALES VOLEURS - DUMAS,48.85404745175841, 2.3950378749780485,Friperie,A faire,"Les prix changent en fonction du jour de la semaine, apparammnt on y trouve des bons habits, pas cher",,4.5
+Mangez et cassez-vous,48.85403112700176, 2.3950090412309386,Resto,A faire,"Burgers, frites et dessers, vraimnt vraimnt pas cher (3.6 le burger fait maison, 1.4 les frites, 1.5 le dessert, 1.5 la boisson)",4.85
+Medina fusion,48.856703894965754, 2.4164906095872745,Resto,A faire,"Resto libanais, avc sanwichs a 3.8 euros a l'emporter, plats, desserts",,3.8
+La Poutinerie,48.87244555250689, 2.3482268969064948,Resto,A faire,"Resto quebequois, avec poutine (autour de 14 euros), burgers (autour de 14 euros), the au sirop d'erable",,3.9
+Le Pantalon,48.84589437077544, 2.3419788846554654,Bar,A faire,"3 euros la pinte en happy hour",,4.5
+L'Entre 2,48.885708232829565, 2.380541191888396,Bar,A faire," 2,90€ la pinte + énorme terrasse & diffusion des matchs",,4.85
+Rockstar Café,48.863552349929726, 2.37055581287321,Bar,A faire,"3,50€ la pinte, mini baby-foot & sons rock",,4
+Red Factory,48.85387786043464, 2.3728368746670854,Bar,A faire,"bar dansant à 3,30€ la pinte",,4
+Petit Palais,48.866358407443194, 2.314503766217066,Musee,A faire,"Musee de beaux-arts",,4.5
+Coulée verte René-Dumont,48.84955361124269, 2.371443381560561,Endroit,A faire,"Sentier verdoyant aménagé le long d'un chemin de fer désaffecté",,4.6
+Musée de la Libération de Paris - musée du Général Leclerc - musée Jean Moulin,48.834080706530216, 2.3319789429377504,Musee,A faire,"ne m'interesse pas plus que ca",,3.8
+Canal Saint-Martin,48.871271814830706, 2.3675101673622763,Endroit,Fait,"Tres sympa",,4.2
+Shakespeare and Company,48.85271142192174, 2.3471732122498135,Magasin,A faire,"Librairie tres ancienne, pas e droit de photos a linterrieur","On peut sasseoire a l'etage et lire des livres gratuitement",4.3
+Musée d'Art Moderne de Paris,48.864476171278675, 2.2978100680698863,Musee,Fait,"Musee d'art moderne, grande collection de grands peintres","Vraiment super super musee",4.75
+Place des Vosges,48.85574157434723, 2.365414576376468,Endroit,Fait,"Petite place tres hupee, avec beaucoup de galeries dart autour, petit parc, tres belles voitures",,4.3
+Musée de l'Orangerie,48.86388718294728, 2.3225865662169256,Musee,A faire,"Petit musee avec des peintures de monet (entre autres)",,4.2
+Bibliothèque nationale de France (BnF) | Richelieu : Musée et Salle ovale,48.867471418269055, 2.3384715061708885,Endroit,A faire,"Immense bibliotheque, tres jolie",,4.3
+Musée de la Chasse et de la Nature,48.86155152911493, 2.358710008544477,Musee,A faire,"",,3.9
+La cantine diderot,48.84712697604444, 2.3819518666933583,Resto,A faire,"Brasserie francaise, l'aire tres bien, plats autour de 10 euros, entrees autour de 3 euros, desserts autour de 3 euros",,4.75
+Bouillon Racine,48.850281979656565, 2.342109644180669,Resto,A faire,"Bouillon typique, clairement plus cher que les classiques (Chartier, ...) mais moins bruillant et bonde et meilleur repas","Entrees autour de 12 euros, plats autour de 30 euros, desserts autour de 10 euros",4.2
+Les sales voleurs République,48.8645406079999, 2.377334410397631,Friperie,A faire,"","",4.3
+LES SALES VOLEURS - DUMAS,48.854145539599266, 2.3950148103969764,Friperie,A faire,,,4.3
+Les sales voleurs,48.85193726788737, 2.4007419275942974,Friperie,A faire,,,4.3
+Les sales voleurs Monge,48.84570852988727, 2.351861739232572,Friperie,A faire,,,4.3
+La REcyclerie,48.898202223354275, 2.3442716894962894,Bar,Fait,"Bar sympa, tres grand, le long de vieux rails de train, standup le vendredi soir","Relativement cher vu l'endroit (porte de Clignancourt)",3.85
+Jardin Vivienne,48.86764053266031, 2.3386676470706314,Endroit,A faire,"petit havre de paix niché derrière la Bibliothèque nationale de France, peu frequente",,4
+Le Refuge des Fondus,48.8846172909076, 2.3411209242766224,Resto,A faire,"Toujours le meme menu (30 euros), fondue bourguignone ou fondue au fromage",,3.8
+Mannie,48.86448786075827, 2.3415275508724296,Resto,A faire,"Burger vegetarien, tres tres bien note mais je ne suis pas convaincu, un poil cher (4 euros les frites, 13 les burgers)",,3.8
+My Noodles,48.84195790189823, 2.3315992784281327,Resto,A faire,"Nouilles chinoises, faites sur place sous les yeux des clients","Pas tres cher, autour de 11 euros le plat",4.5
+L'As du Fallafel,48.85749137781307, 2.3591961969055864,Resto,A faire,"Fallafel tres (surement trop) cote, selon moi a evite","Se trouve dans une rue ultra passante et touristique",3.2
+Le rouge aux lèvres,48.85148143476284, 2.4052702576722678,Resto,A faire,"Resto/Bistro francais, a l'aire vraiment tres bien, E + P + D = 25 euros (surement que le midi en semaine, a voir)","Tres recommandable, les plats sont soignes et sortent de l'ordinaire",4.65
+Alma - Corse & Tapas,48.86640049693007, 2.3458908,Resto,A faire,"Bar a vins/cocktails & tappas, apparament tres bien et pas hors de prix",,4.15
+Sapporo,48.86780676337227, 2.335645030689071,Resto,A faire,"Resto japonais (nouilles, curry, gyoza, ...), prix relativement eleves, n'a pas l'aire d'etre exceptionel",,3.9
+Sapporo,48.8647177305089, 2.333267892067212,Resto,A faire,"Resto japonais (nouilles, curry, gyoza, ...), prix relativement eleves, n'a pas l'aire d'etre exceptionel",,3.9
+Sürpriz - Berliner Kebab,48.86999738512077, 2.352975996906365,Resto,A faire,"Bien note, donne vraiment envie, 10 euros le menu","Valide",4.4
+Lovebird Saint-Cloud,48.85691651758694, 2.2224278534651813,Resto,A faire,"Cuisine du Monde, à partager le soir, avec des cocktails élaborés en fonction des signes astro","Autour de 15 euros le cocktail, 10 euros le tappas, le midi E + P + D = 28 euros",3.9
+La Fresque,48.86270691889599, 2.348072728836134,Resto,A faire,"Resto francais assez moderne, les plat changent tous les jours, E + P + D = 25 euros, 3 euros le verre de vin le midi","Valide",4.35
+Polidor,48.850225455140034, 2.3401327712708997,Resto,A faire,"Birstro francais typique, pas hyper cher, a l'aire neanmoins normal",,3.85
+Tokyotori,48.85028467806693, 2.339882642327732,Resto,A faire,"Japonais, sushis, nouilles, ... Prix resonables (13 euros les 8 sushi normaux, 17 les 8 california rolls)","N'a pas laire plus bon que ca",3.8
+Maison de la culture Arménienne,48.876594297556565, 2.346064895721561,Resto,A faire,"Plats armniens, pas specialement cher, (17 euros le plat, 7 euros lentree), apparamment bien","A l'aire tres mystique",3.6
+B.O.U.L.O.M,48.89451808496031, 2.3353561042858404,Resto,A faire,"Resto a volonte, avec produits du terroir et de saison, partie chaud, froid, dessert, charcuterie, fromages, ...","36 euros par personne le midi en semaine, 48 euros le soir et le weekend et jours feries, brunch a 58 euros le samedi, dianche, jours feries et ponts, a l'aire detre un bon rapport qualite prix",4.3
+Le H Bar,48.855439936314, 2.391946341086114,Bar,A faire,"2,90€ la pinte en happy hour, a manger pas cher et c'est bon","Clairement valide",4.65
+Gruppomimo,48.8550731620575, 2.375910803705874,Resto,A faire,"Resto italien pas cher et apparamment pas mal bon","À volonté tous les midis en semaine (18€) & les lundi et mardi soir (25€), Le reste du temps les plats sont à la carte",4.3
+Gruppomimo,48.87083126923687, 2.3426256815618713,Resto,A faire,"Resto italien pas cher et apparamment pas mal bon","À volonté tous les midis en semaine (18€) & les lundi et mardi soir (25€), Le reste du temps les plats sont à la carte",4.3
+Gruppomimo,48.884253242989175, 2.265638426983197,Resto,A faire,"Resto italien pas cher et apparamment pas mal bon","À volonté tous les midis en semaine (18€) & les lundi et mardi soir (25€), Le reste du temps les plats sont à la carte",4.3
+Maison Caillebotte,48.71411838394666, 2.4887763238798475,Musee,A faire,"Maison du peintre impressioniste, avec jardin et parc gratuit au bord d'une riviere","L'exterieur est gratuit mais l'entree dans la maison est payante",4.4
+Maslow 1er,48.85846449286002, 2.344146936752883,Resto,A faire,"Resto vegetarien, assietes a partager entre 5 et 11 euros, tres bien note, a l'aire tres bon","Prendre 2-3 assietes par personne",4.15
+Maslow Temple,48.86485090014169, 2.363759817835543,Resto,A faire,"Resto vegetarien, assietes a partager entre 5 et 11 euros, tres bien note, a l'aire tres bon","Prendre 2-3 assietes par personne",4.15
+Bibliothèque Mazarine,48.85791653087637, 2.337062985362631,Musee,A faire,"Tres vielle bibliotheque, tres jolie",,3.85
+Stohrer,48.86541964205999, 2.3468148969060767,Boulangerie,A faire,"Plus vielle patisserie de paris",,4.5
+Mariage Frères,48.85785575368495, 2.3566486987585242,Endroit,A faire,"Plus vieux salon de the","Tres rafine et elegant, a l'aire tres bien mais tres cher",3.8
+Le Procope,48.85319156317633, 2.3386673423277324,Resto,A faire,"Bistro typique, bonne qualite, mieux que les bouillons classiques, un peut plus cher mais reste ok","25-30 euros le plat",4
+Restaurant L'Afghanistan,48.862504036229005, 2.380038971163866,Resto,A faire,"Restaurant afghan, plats entre 15 et 18 euros","Apparamment trees bon",4.3
+La Joie,48.86189853645051, 2.3826775969058804,Resto,A faire,"Restaurant sri-lankais, tres tres bon, plat epices, ...","E + P + D = 24 euros meme le weekend (a midi)",4.6
+JAMROCK PARIS,48.851399475237535, 2.3801811846554646,Resto,A faire,"Jamaiquain, apparamment super bon, ambiance tres chil et cocktails hypr bons aussi. Plats entre 15 et 20 euros","",4.34
+Bidoche Oberkampf,48.86518800266929, 2.3668553944411896,Resto,A faire,"Boucherie qui fait aussi resto en arriere boutique et ramenent des bons morceux de viande (entre autres matures), menu E + P + D a 26 euros le midi en semaine et hors jours feries",,4.5
+Bidoche Batignolles,48.88423938765186, 2.32268644108794,Resto,A faire,"Boucherie qui fait aussi resto en arriere boutique et ramenent des bons morceux de viande (entre autres matures), menu E + P + D a 26 euros le midi en semaine et hors jours feries",,4.5
+Lacigne,48.86809192139277, 2.3728093326493394,Resto,A faire,"Japonais tres intimiste avec tres joli decors, menu surprise 5 temps a 52 euros le soir et sinon les plats sont entre 8 et 24 euros",,4.35
+BASIQUE,48.85664648318507, 2.379445615344535,Resto,A faire,"Plats travailles assietes a partager, autour de 10 euros lassiette, tres bon rapport qualite prix",,4.25
+Cafe Content,48.85936540330972, 2.3829123423277325,Resto,A faire,"Resto simple avec une carte courte (une option vege, un option poisson, une option viande), E + P + D = 22 euros le midi, large selection de vins","Plats travailles et appetissants",4.7
+Clutch,48.850532298537125, 2.3902333711638657,Resto,A faire,"Cuisine bistronomique, tres travaillee, assiettes bien dressees et allechantes, grosse carte des vins, plats autour de 30 euros, entree autour de 14 euros",,4.45
+
+
+
+
