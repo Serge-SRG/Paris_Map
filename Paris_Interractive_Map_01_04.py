@@ -33,7 +33,8 @@ config_categories = {
     'Musee': {'couleur': 'blue', 'icon': 'university'},
     'Bar': {'couleur': 'darkred', 'icon': 'glass'},
     'Boulangerie': {'couleur': 'green', 'icon': 'birthday-cake'},
-    'Endroit': {'couleur': 'darkgreen', 'icon': 'tree'}
+    'Endroit': {'couleur': 'darkgreen', 'icon': 'tree'},
+    'Magasin': {'couleur': 'turquoise', 'icon': 'shop'},
 }
 
 # --- FONCTION : GÉNÉRATEUR D'ÉTOILES ---
