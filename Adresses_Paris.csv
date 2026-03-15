@@ -29,7 +29,7 @@ Chez le Libanais,48.853427979261795, 2.341647483413704,Resto,A faire,"Cuisine li
 BO&MIE - Saint Michel,48.85255548196825, 2.343897637380042,Boulangerie,Fait,"Boulangerie un peut industrielle, grande echelle","Pas trouve beaucoup mieux dans les environs",4
 PRADEL Bastille,48.8561913175052, 2.3689233544556307,Resto,A faire,"Resto francais avc des specialite et aussi d'autres plats","A l'aire d'etre un bon rapport qualite/prix, E + P + D = environ 34 euros",4.5
 Ursa Major Chocolats,48.85840382879132, 2.3775765122501515,Boulangerie,A faire,"Chocolaterie, tout fait sur place, vraiment incroyable rapport qualite/prix","Prendre le coffret planettes, 22 euros il me semble",4.8
-Rives,48.86115148880269, 2.381157768069685,Resto,A faire,"Saucice aligot et autres merveilles","Plats a environ 18 euros",3.9
+Rives,48.86115148880269, 2.381157768069685,Resto,A faire,"Bitro moderne, saucice aligot et autres merveilles","Plats a environ 18 euros",3.9
 La Panifacture,48.866326766319986, 2.37706242574226,Boulangerie,Fait,"Peut-etre les meilleures vienoiseries de Paris, un peut cher mais vaut la peine, tout part tres tres vite, soit appeler et reserver des articles soit aler vraiment tot","Flan incroyable, pain suisse incroyable, financier moyen, croissant pas hors du commun apparament",5
 Boulangerie-Pâtisserie Terroirs d'Avenir,48.86775238554101, 2.37706242574226,Boulangerie,Fait,"Boulangerie un peut moins cote que la Panufacture mais aussi bon, assez cher par contre","Kougaman tres bon, aussi pain originaux au citron confit, ...",4.2
 Le Bangkokien,48.8676933052112, 2.3751767392339467,Resto,A faire,"Cusine thai, a l'aire vraiment excellente","E + P + D = 20 euros",5
@@ -102,7 +102,7 @@ Le Toit de La Bellevilloise,48.868378784693085, 2.3921807362796916,Bar,A faire,"
 Concept chef Brazilian BBQ,48.84293686804469, 2.329738283413064,Resto,A faire,"Burger avec viande au BBQ cuite entre 2 et 12 heures, a l'aire vraiment incroyable, menu (burger frites boison de 13 a 20 euros, assiete a 12-14 euros)","Portions peut etre un peut petites, a voir",4.55
 Restaurant Les délices de Tunisie,48.86890730408242, 2.38529480854498,Resto,A faire,"Sandwichs tunisiens, a l'aire tres bien, grosses portions","Tout maison (frites, pains, sauces, ...)",4.85
 Petit Veau Athis Mons,48.71425692148502, 2.3738925086742504,Resto,A faire,"Kebab, apparament tres bon",,4
-Broche’ET Kebab,48.895800847777636, 2.346468893202102,Resto, A faire,"Kebab le mieux note de paris, apparmment ne veut pas le prix, 12.5 euros le menu",,4.65
+"Broche’ET Kebab",48.895800847777636, 2.346468893202102,Resto, A faire,"Kebab le mieux note de paris, apparmment ne veut pas le prix, 12.5 euros le menu",,4.65
 Urfa Dürüm,48.87315769781247, 2.354496222756282,Resto,A faire,"Sandwiches kurdes, 10 euros le sandwich, 2.5 la boisson",,4.4
 Chez Alain Miam Miam,48.862465033156006, 2.361795750872277,Resto,A faire,"Sandwiches immenses, apparmment suculents et assz chers 15 sur place, 13.5 a l'emporter",,4.4
 Cavapapa,48.83881258070237, 2.30053053973834,Resto,A faire,"A l'aire vraiment tres tres bien, cuisine francaise relativement modernisee","Ordre d'idee des prix: entree 12 euros, plat: 25 euros, dessert: 12 euros, a l'aire de valoir son prix",4.75
@@ -113,7 +113,7 @@ Pâtisserie Viennoise,48.85103637889079, 2.341570444234068,Resto,A faire,"Sandwi
 Oroyona,48.84398188302679, 2.3493315969047384,Resto,A faire,"Creperie pas cher (5.5 euros pour une crepe salee, une sucree et une boisson)",,4.4
 Crêperie Genia,48.85166086532244, 2.3437581969052435,Resto,A faire,"Crepes et paninis vraiment pas cher, assez ghetto",,3.95
 LES SALES VOLEURS - DUMAS,48.85404745175841, 2.3950378749780485,Friperie,A faire,"Les prix changent en fonction du jour de la semaine, apparammnt on y trouve des bons habits, pas cher",,4.5
-Mangez et cassez-vous,48.85403112700176, 2.3950090412309386,Resto,A faire,"Burgers, frites et dessers, vraimnt vraimnt pas cher (3.6 le burger fait maison, 1.4 les frites, 1.5 le dessert, 1.5 la boisson)",4.85
+Mangez et cassez-vous,48.85403112700176, 2.3950090412309386,Resto,A faire,"Burgers, frites et dessers, vraimnt vraimnt pas cher (3.6 le burger fait maison, 1.4 les frites, 1.5 le dessert, 1.5 la boisson)","",4.85
 Medina fusion,48.856703894965754, 2.4164906095872745,Resto,A faire,"Resto libanais, avc sanwichs a 3.8 euros a l'emporter, plats, desserts",,3.8
 La Poutinerie,48.87244555250689, 2.3482268969064948,Resto,A faire,"Resto quebequois, avec poutine (autour de 14 euros), burgers (autour de 14 euros), the au sirop d'erable",,3.9
 Le Pantalon,48.84589437077544, 2.3419788846554654,Bar,A faire,"3 euros la pinte en happy hour",,4.5
@@ -173,7 +173,46 @@ Lacigne,48.86809192139277, 2.3728093326493394,Resto,A faire,"Japonais tres intim
 BASIQUE,48.85664648318507, 2.379445615344535,Resto,A faire,"Plats travailles assietes a partager, autour de 10 euros lassiette, tres bon rapport qualite prix",,4.25
 Cafe Content,48.85936540330972, 2.3829123423277325,Resto,A faire,"Resto simple avec une carte courte (une option vege, un option poisson, une option viande), E + P + D = 22 euros le midi, large selection de vins","Plats travailles et appetissants",4.7
 Clutch,48.850532298537125, 2.3902333711638657,Resto,A faire,"Cuisine bistronomique, tres travaillee, assiettes bien dressees et allechantes, grosse carte des vins, plats autour de 30 euros, entree autour de 14 euros",,4.45
-
-
-
-
+Restaurant Drouant,48.868890298737746, 2.334460024964329,Resto,A faire,"Resto francais (un des plus vieux de paris), vol-au-vent et sole Meunière incontournables, madeleine de proust en dessert, apparammenet cuisine tres bonne mais service pas terrible au vue du prix","Prix: Entrées : 14€ à 28€, Plats : 24€ à 48€, Sole Meunière : 15€/100gr, Garnitures : 10€, Desserts : 10€ à 24€, Madeleine de Proust : 32€ (à partager), Menu déjeuner : 45€ et 55€",4
+LA COLLECTIVE PARISIENNE,48.85552327276197, 2.3587124834138544,Resto,A faire,"Cuisine du monde, E + P + D = 12 euros","Ouvert tous les jours de 12h a 17h",4.75
+Comédie Française,48.86419712989354, 2.3356178080499617,Endroit,A faire,"Chaque soir, pour toutes les représentations en Salle Richelieu, entre 65 et 85 places sont vendues à 5€, Rendez-vous au Petit Bureau (le guichet extérieur rue de Richelieu) 1 HEURE avant le début du spectacle. !!! Places a visibilite reduite !!!","Aller vers 19h pour etre plus sur d'avoir une place",3.8
+Le Café du Commerce,48.846586121340344, 2.2955020545771756,Resto,A faire,"Resto typiquement francais, limite cliche, sur trois etages, tres joli, tres charmant","Autour de 17 euros le plat, autour de 8 euros l'entree, compter environ 30 euros par personne",4
+"Chez Fred, depuis 1945",48.881569041144985, 2.2896979153445347,Resto,A faire,"Resto francais, a laire plustot bien mais sans plus, un peut cher (environ 30 euros le plat et 18 l'entree)","Compter environ 50 euros par personne",3.75
+Le Train Bleu,48.84496241707719, 2.37328012574095,Resto,A faire,"Resto francais, gastronomie typiquement franaise, deco incroyable, etoile il me semble, compter entre 100 et 150 euros par personne","",4.5
+Les Compères,48.85576077202539, 2.371509637380292,Resto,A faire,"Resto francais, tres charmant et acceuillant, autour de 30 euros par personne",,3.8
+Le Jardin Sucré,48.8829992452092, 2.2996107969071615,Boulangerie,A faire,"Considere comme une des meilleures patisseries de paris, 19€ le coffret de 8 macarons, 7,50€ la tarte pistache fleur d’oranger, 6,50€ l’entremet rosat, 4,75€ le flankie, 3,50€ les cookies, 3,50€ la part de cake pistache fleur d’oranger","Tres tres bon rapport qualite/prix, surtout gouter la tarte pistache fleur d’oranger",4.7
+La Fa Brïk,48.891755541488834, 2.3517783177765663,Resto,A faire,"Street food algerienne, valide par beaucoup de monde, prix tres correctes",,4.88
+La Fa Brïk,48.88762966585892, 2.354608696907439,Resto,A faire,"Street food algerienne, valide par beaucoup de monde, prix tres correctes",,4.88
+Momo Tibet,48.886292661272336, 2.368012964079793,Resto,A faire,"Resto tibetain, apparamment tres bon, tres bien notee, plats autour 10 euros, grosses portions","les momos sont tres bons",4.79
+TIM LA PRINCESSE,48.890793384000524, 2.3508454662185656,Resto,A faire,"Cuisine d'afrique de l'ouest, plats a 6.5 euros tous les dimanches, sinon plats a 9.9 euros les autres jours","ouvert vendredi, samedi et dimanche",4.79
+Suzette Crêperie Urbaine | Paris,48.8756198644142, 2.3433616247428852,Resto,A faire,"Crepes,un peut plus quali que la moyenne, toutes es galettes a moins de 10 euros (pas si peut cher non plus)","Tres bien note et laire pas mal",4.3
+Le Loir dans La Théière,48.85643894225533, 2.3609953662164487,Resto,A faire,"Salon de the, un peut cher (7 euros le the/tisanne e 6.5 le cafe froid, 6 euros le cappuccino)","A l'aire quand meme simpa, proposent aussi a manger (petit dejeuner, dejeuner) bonne tarte au citron meuringuee",3.75
+Bofinger,48.85434647296604, 2.3678854256710777,Resto,A faire,"Institution parisienne, plats franchouillards, assez cher, (plat autour de 20-30 euros chous croutes dalsace, poissons, viandes), entrees autour de 12 euros","",4
+Parc Monceau,48.880135996301824, 2.3089390895320707,Endroit,A faire,"Parc public avec arbres, sentiers goudronnés, statues, colonnade du XVIIIe siècle et folies pyramidales","A l'aire tres tres style, assez grand et suer pose, avec petit lac",5
+Église Saint-Étienne-du-Mont,48.84665919818653, 2.348014595051969,Endroit,A faire,"Église ornée combinant les styles gothique et Renaissance, et abritant le sanctuaire du saint patron de Paris.","",4.5
+Arènes de Lutèce,48.84518133617643, 2.3528366542213033,Endroit,A faire,"Amphithéâtre romain partiellement détruit, découvert au XIXe siècle et entouré de jardins verdoyants","Lieu vie et de chill",3.9
+Musée Jacquemart-André,48.875799809414595, 2.310291914087639,Musee, A faire,"Collection majeure d'art européen du XVe au XVIIIe siècle exposée dans un hôtel particulier du XIXe siècle","Pas gratuit pour les jeunes",4.2
+Ji Bai He（吉百合）,48.83214909968791, 2.2928684432611464,Resto,A faire,"Apparamment tres bons raviolis, prix pas cher mais a l'aire norma sinon",,3.65
+Ichirin,48.835997198826334, 2.285664207411747,Resto,A faire,"Restaurant japonais authentique, bien note et a l'air bon, vraiment pas tres cher (le soir entre 15 et 20 euros entree et plat, formule midi a 15 euros (riz, soupe miso et salade))","A l'aire detre un bon rapport qualite/prix",4.75
+Musée de Minéralogie de l’École des Mines,48.84564636677426, 2.339615041085533,Musee,A faire,"Petit musée dans hôtel de Vendôme, remarquable collection de minéraux, roches, météorites, pierres précieuses",,4.3
+Omusubi Gonbei Paris République,48.866820641876245, 2.360767854738307,Resto,A faire,"Resto japonais, finance par le japon donc vraiment pas cher (10 euros gros bento, 3 euros onigiri)",,4.8
+Omusubi Gonbei,48.86770785665917, 2.3371442751095954,Resto,A faire,"Resto japonais, finance par le japon donc vraiment pas cher (10 euros gros bento, 3 euros onigiri)",,4.8
+Le Cornichon - Bar - Restaurant - FDJ,48.869179487635925, 2.3725912662172286,Resto,A faire,"Resto francais, cuisine traditionnelle revisitee, servent aussi des cocktails, pas hyper cher et endroit sympa",,4.44
+Le 17.45 Paris République - Planches à composer,48.87119322377828, 2.3579230553259585,Resto,A faire,"Fondue a volonte le lundi soir (a partir de 17.45 euros) entre novembre et fin mars et raclette a volonte le dimanche soir, possibilite de composer sa planche de fromages/charcuteries","Beucoup d'autres dans paris",4
+Jardin Anne-Frank,48.861702128124115, 2.3549722455717923,Endroit,A faire,"endroit tranquil ou se poser et peut frequente vu son emplaceemnt",,4.3
+GROOT La Tourte,48.86643276652086, 2.3475729639557716,Resto,A faire,"Fast food servant des tourtes, apparamment tres bonnes et copieuses mais assez cheres (entre 15 et 17 euros la tourte)",,3.9
+MELT DELI Rochechouart,48.882168230916314, 2.3468312511754363,Resto,A faire,"Fast food Sandwichs avec viandes cuites longtemps, style texas BBQ, assez cher (schandwich eutour de 15 euros et menu 5 euros de plus)","Surment surcote",3.6
+Double,48.890684676667654, 2.3356960037058734,Resto,A faire,"Resto moderne et gastronomique, petit et athmosphere intimiste, on voit les deux chefs cuisiner devant soi, certains plats sont creatifs d'autres metrises, menu 7 temps a 62 euros","nfluences francaises, italiennes, japonaises",4.75
+Best Tofu,48.87288885930153, 2.3759984699233208,Resto,A faire,"Chinois le moins cher de belleville, salle toujours pleine, les plats ne depassent pas 2 euros","Essayer pudding sale et lait de soja",4.7
+Anar restaurant ouïghour,48.8145914087566, 2.3598976751238263,Resto,A faire,"Resto ouïghour, apparamment bon mais un peut cher pour les quantites, (16 euros plat et boisson)",,3.8
+Violetta et Alfredo - Salon de thé,48.87569194273824, 2.345498844210479,Resto,A faire,"Salon de thé pittoresque avec tables côté rue, servant le petit-déjeuner, le brunch, des gâteaux et une grande sélection de thé, 5 euros le the, 28 le brunch, pas hors de prix mais pas donne non plus","Plats genereux, prenre les fluffy pancakes",3.95
+BRO'S PIZZA,48.878243458231935, 2.326856883415287,Resto,A faire,"A l'aire incroyable, deux slices a 7.9 euros, 3 slices a 9.9 euros, boisson 2 euros, dessrt 3.5 euros","Ouvert seulment en semaine entre 12:00–14:30 et 19:00–21:30",4.8
+COCOQ,48.876613279801155, 2.335249467457993,Resto,A faire,"Chef en residence qui teste les plats qu'il vas mettre a la atre de son futur resto","Uniqumnt a l'emporter, a hang touts ls semaines, moins de 15 euros normalmnt",4.5
+The Smoked Meat,48.85623052673094, 2.372596729429628,Resto,A faire,"Sandwichs et burgers, avec viande fumee et cuite longtemps, apparaammnt bon mais beauoup trop cher selon moi (13 euros le burger, 5 euros le dessert, 4 euros la boisson)",,3.5
+Recyclerie Sportive Paris - Boutique de seconde main et atelier co-réparation vélos,48.897539566020285, 2.3198334087371517,Friperie,A faire,,,3.4
+LaFabrique230 - Ressourcerie,48.831457423074916, 2.3069898160469515,Friperie,A faire,,,3.5
+Emmaüs Campüs Césure,48.84030102358863, 2.3543382765494143,Friperie,A faire,,,3.8
+Workshop Issé,48.8689075145169, 2.337020619401322,Resto,A faire,"Episserie japonaise qui fait office de cantine le midi, menu a 17 euros, vrai experiance japonaise, cadre calme et intimiste","Vivement recommande",4.9
+CHANCEUX St-Maur,48.86304128072614, 2.3798619693109293,Resto,A faire,"Endroit chill et agreable, cafe qui font des sandwichs tres bons (13 ou 10 euros) desserts, entrees ...",,4
+La Droguerie,48.87211408321743, 2.3534521430860726,Resto,A faire,"Bonnes crepes, salees chargees a 7 euros, surcrees autour de 4 euros, the a la menthe 1 euro",,4
+L'Atelier Dürüm,48.886474089621665, 2.3474059300288794,Resto,A fair,"Durum, aparamment super bon, entre 7 et 10 euros le durum, les frites ne sont pas tres bonnes ne pas les prendre",,3.9
